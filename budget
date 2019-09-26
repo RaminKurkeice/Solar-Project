@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+
+-<document page-count="1">
+
+
+-<page number="1">
+
+
+-<table data-table="1" data-page="1" data-filename="budget - Sheet1.pdf">
+
+
+-<tr>
+
+<td>ITEM</td>
+
+<td>COMPANY</td>
+
+<td>PRICE</td>
+
+<td>TAX &/OR SHIPPING</td>
+
+<td>TOTAL</td>
+
+<td>WEBSITE</td>
+
+</tr>
+
+
+-<tr>
+
+<td>PCB SHEETS</td>
+
+<td>YUNGUI</td>
+
+<td style="text-align: right">10</td>
+
+<td style="text-align: right">4.99</td>
+
+<td style="text-align: right">14.99</td>
+
+<td>AMAZON.COM</td>
+
+</tr>
+
+
+-<tr>
+
+<td>VOLTAGE SENSOR</td>
+
+<td>FLOWERBLOSSOM</td>
+
+<td style="text-align: right">3.62</td>
+
+<td style="text-align: right">5</td>
+
+<td style="text-align: right">8.62</td>
+
+<td>EBAY.COM</td>
+
+</tr>
+
+
+-<tr>
+
+<td>CLEAR ACRYLIC</td>
+
+<td>JOHNSON INDUSTRIAL</td>
+
+<td style="text-align: right">7.18</td>
+
+<td style="text-align: right">3.59</td>
+
+<td style="text-align: right">10.77</td>
+
+<td>JOHNSONPLASTICS.COM</td>
+
+</tr>
+
+
+-<tr>
+
+<td>CUTTING ACRYLIC</td>
+
+<td>HUMBER LABS</td>
+
+<td style="text-align: right">0.24</td>
+
+<td>N/A</td>
+
+<td style="text-align: right">0.24</td>
+
+<td>HUMBER.CA</td>
+
+</tr>
+
+
+-<tr>
+
+<td>PRINTING ON PCB</td>
+
+<td>HUMBER LABS</td>
+
+<td style="text-align: right">3.78</td>
+
+<td style="text-align: right">0.5</td>
+
+<td style="text-align: right">4.28</td>
+
+<td>HUMBER.CA</td>
+
+</tr>
+
+
+-<tr>
+
+<td>TRAVEL BY BUS</td>
+
+<td>TTC</td>
+
+<td style="text-align: right">2.2</td>
+
+<td>N/A</td>
+
+<td style="text-align: right">2.2</td>
+
+<td>TTC.CA</td>
+
+</tr>
+
+
+-<tr>
+
+<td>SAFTEY GLASSES</td>
+
+<td>3M</td>
+
+<td style="text-align: right">6.99</td>
+
+<td style="text-align: right">0.9</td>
+
+<td style="text-align: right">7.89</td>
+
+<td>CANADIANTIRE.CA</td>
+
+</tr>
+
+
+-<tr>
+
+<td>TOOL KIT</td>
+
+<td>STANLEY</td>
+
+<td style="text-align: right">120</td>
+
+<td style="text-align: right">15.6</td>
+
+<td style="text-align: right">136.6</td>
+
+<td/>
+
+</tr>
+
+
+-<tr>
+
+<td>RASPBERRY PI KIT</td>
+
+<td>ABOX</td>
+
+<td style="text-align: right">104.99</td>
+
+<td style="text-align: right">5.2</td>
+
+<td style="text-align: right">230.17</td>
+
+<td>AMAZON.COM</td>
+
+</tr>
+
+
+-<tr>
+
+<td>TOTAL COST</td>
+
+<td>N/A</td>
+
+<td>N/A</td>
+
+<td>N/A</td>
+
+<td style="text-align: right">415.76</td>
+
+<td/>
+
+</tr>
+
+</table>
+
+</page>
+
+</document>
