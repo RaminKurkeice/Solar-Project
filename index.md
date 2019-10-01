@@ -1,4 +1,4 @@
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+![F4AF60](https://placehold.it/15/f03c15/000000?text=+) `#f4A460`
 
 Solar Panel Gazebo 
 -------------------
