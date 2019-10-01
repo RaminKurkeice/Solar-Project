@@ -1,3 +1,4 @@
+<body>
 Solar Panel Gazebo 
 -------------------
 
@@ -12,8 +13,9 @@ proof of purchase of the ZMPT101B voltage sensor.
  
 ![Proof Of Purchase](/images/pop.PNG)
 
-'''html
-div {
+
+body {
   background-color: SandyBrown;
 }
-'''
+
+</body>
