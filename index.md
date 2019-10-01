@@ -12,3 +12,6 @@ proof of purchase of the ZMPT101B voltage sensor.
  
 ![Proof Of Purchase](/images/pop.PNG)
 
+'''html
+<style>  background-color: SandyBrown; </style>
+'''
