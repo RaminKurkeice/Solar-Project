@@ -1,4 +1,5 @@
-<body>
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
 Solar Panel Gazebo 
 -------------------
 
@@ -14,8 +15,4 @@ proof of purchase of the ZMPT101B voltage sensor.
 ![Proof Of Purchase](/images/pop.PNG)
 
 
-body {
-  background-color: SandyBrown;
-}
 
-</body>
