@@ -20,5 +20,8 @@ and worked on fritzing my pcb.
 ![voltage sensor breadboard](/images/voltagesensor_bb.png)
 ![voltage sensor PCB](/images/voltagesensor_pcb.png)
 
+### October 24 2019
+--------------------
+PI IO software has been installed.  
 
 
