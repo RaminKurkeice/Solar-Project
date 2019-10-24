@@ -12,7 +12,7 @@ proof of purchase of the ZMPT101B voltage sensor.
  
 ![Proof Of Purchase](/images/pop.PNG)
 
-### October  2019
+### October 10-17 2019
 ------------------
 showed proof of my parts that i have ordered.
 and worked on fritzing my pcb.
