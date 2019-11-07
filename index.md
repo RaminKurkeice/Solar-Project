@@ -28,3 +28,5 @@ PI IO software has been installed.
 ------------------
 Pcb soldered but wrong way i will fix this soon.
 
+![Wrong1](/images/wrong1.png)
+![Wrong2](/images/wrong2.png)
