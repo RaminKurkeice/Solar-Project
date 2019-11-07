@@ -24,4 +24,7 @@ and worked on fritzing my pcb.
 --------------------
 PI IO software has been installed.  
 
+### Nov 7, 2019
+------------------
+Pcb soldered but wrong way i will fix this soon.
 
