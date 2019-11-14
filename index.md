@@ -1,16 +1,20 @@
 Solar Panel Gazebo 
 -------------------
 
-### September 26 2019
+### Nov 14, 2019
 ---------------------
+[Created Progress report](/documentation/Progress%20report.pdf)
 
-completed budget also created a folder for all the files.
-
-### October 1 2019
+### Nov 7, 2019
 ------------------
-proof of purchase of the ZMPT101B voltage sensor.
- 
-![Proof Of Purchase](/images/pop.PNG)
+Pcb soldered but wrong way i will fix this soon.
+![Wrong1](/images/wrong1.png)
+![Wrong2](/images/wrong2.png)
+errors in desoldering occured reprinting the PCB
+
+### October 24 2019
+----------------------
+PI IO software has been installed. 
 
 ### October 10-17 2019
 ------------------
@@ -20,18 +24,20 @@ and worked on fritzing my pcb.
 ![voltage sensor breadboard](/images/voltagesensor_bb.png)
 ![voltage sensor PCB](/images/voltagesensor_pcb.png)
 
-### October 24 2019
---------------------
-PI IO software has been installed.  
-
-### Nov 7, 2019
+### October 1 2019
 ------------------
-Pcb soldered but wrong way i will fix this soon.
+proof of purchase of the ZMPT101B voltage sensor.
+ 
+![Proof Of Purchase](/images/pop.PNG)
 
-![Wrong1](/images/wrong1.png)
-![Wrong2](/images/wrong2.png)
-errors in desoldering occured reprinting the PCB
 
-### Nov 14, 2019
-------------------
-[Created Progress report](/documentation/Progress%20report.pdf)
+### September 26 2019
+---------------------
+completed budget also created a folder for all the files.
+
+
+
+ 
+
+
+
