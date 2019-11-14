@@ -5,6 +5,12 @@ Solar Panel Gazebo
 ---------------------
 [Created Progress report](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Progress%20report.pdf)
 
+Also i have corrected the mistake in the PCB soldering pictures below.
+
+![Wrong1](/images/CorrectSolder1.png)
+![Wrong2](/images/CorrectSolder2.png)
+
+
 ### Nov 7, 2019
 ------------------
 Pcb soldered but wrong way i will fix this soon.
