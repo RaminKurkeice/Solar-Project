@@ -30,3 +30,8 @@ Pcb soldered but wrong way i will fix this soon.
 
 ![Wrong1](/images/wrong1.png)
 ![Wrong2](/images/wrong2.png)
+errors in desoldering occured reprinting the PCB
+
+### Nov 14, 2019
+------------------
+[Created Progress report](/documentation/Progress%20report.pdf)
