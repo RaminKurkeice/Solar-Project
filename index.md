@@ -3,7 +3,7 @@ Solar Panel Gazebo
 
 ### Nov 14, 2019
 ---------------------
-[Created Progress report](/documentation/Progress%20report.pdf)
+[Created Progress report](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Progress%20report.pdf)
 
 ### Nov 7, 2019
 ------------------
