@@ -1,9 +1,9 @@
 Solar Panel Gazebo 
 -------------------
-pi case has been cut and assembled. 
-some problems that i have are that the case is about 5mm to small and the top needs to be extended to fit the full pi 
-here are the pictures as proof.
-[V4Diagram](../images/Ramin_PI_Case_V4.pdf)  
+pi case has been cut and assembled.  
+some problems that i have are that the case is about 5mm to small and the top needs to be extended to fit the full pi.  
+here are the pictures as proof.  
+[V4Diagram](https://github.com/RaminKurkeice/Solar-Project/blob/master/images/Ramin_PI_Case_V4.pdf)   
 ![V4PiBack](/images/picaseback.png)
 ![V4PiSide](/images/picaseside.png)  
 ![V4PiPieces](/images/picasepieces.png)
