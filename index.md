@@ -8,7 +8,7 @@ here are the pictures as proof.
 ![V4PiSide](/images/picaseside.png)  
 ![V4PiPieces](/images/picasepieces.png)
 
-I will update this wehn version 5 is cut.
+I will update this when version 5 is cut.
 
 ### Nov 20, 2019
 ------------------
