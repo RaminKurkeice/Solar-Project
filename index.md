@@ -1,5 +1,14 @@
 Solar Panel Gazebo 
 -------------------
+Welcome to the repository.
+
+### Nov 28, 2019
+-------------------
+Just added my presentation on the git hub documents it is a powerpoint so you must download to access it.  
+[Powerpoint](/documentation/Solar%20panel%20project.pptx)
+
+### Nov 20, 2019
+------------------
 pi case has been cut and assembled.  
 some problems that i have are that the case is about 5mm to small and the top needs to be extended to fit the full pi.  
 here are the pictures as proof.  
@@ -10,8 +19,6 @@ here are the pictures as proof.
 
 I will update this when version 5 is cut.
 
-### Nov 20, 2019
-------------------
 enclosure has been laser cut 
 
 ### Nov 14, 2019
