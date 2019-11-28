@@ -5,7 +5,7 @@ Welcome to the repository.
 ### Nov 28, 2019
 -------------------
 Just added my presentation on the git hub documents it is a powerpoint so you must download to access it.  
-[Powerpoint](/documentation/Solar%20panel%20project.pptx)
+[Powerpoint](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Solar%20panel%20project.pptx)
 
 ### Nov 20, 2019
 ------------------
