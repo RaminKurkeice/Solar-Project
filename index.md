@@ -3,12 +3,16 @@ Solar Panel Gazebo
 Welcome to the repository.
 
 ### dec 5 2018
----------------
+--------------
+added .fzz file 
+[fritzing file](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/RaminPcbV1.fzz)  
+
 datasheet 
 [ZMPT101B](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/ZMPT101B-ETC.pdf)  
 
 updated schematic  
 [schematic](https://github.com/RaminKurkeice/Solar-Project/blob/master/images/RaminPcbV1_schem.png) 
+
 
 ### Nov 28, 2019
 -------------------
