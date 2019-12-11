@@ -2,7 +2,12 @@ Solar Panel Gazebo
 -------------------
 Welcome to the repository.
 
-### dec 5 2018
+### dec 12, 2019
+--------------------
+will be adding a build instruction soon....
+link:
+
+### dec 5, 2019
 --------------
 added .fzz file 
 [fritzing file](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/RaminPcbV1.fzz)  
