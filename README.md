@@ -31,7 +31,7 @@ Also if you do not have access to solder equipment i will also add it below (thi
 ------------------------
 
 Buying and receiving supplies: may vary by shipping.  
-Setup: 4hrs
+Setup: 4hrs  
 Mechanical Assembly: 2hrs 45mins  
 PCB soldering: 1hr 30mins  
 Power Up and Unit Testing: 2hr 40mins    
@@ -42,7 +42,6 @@ Total time
 
 ## Mechanical Assembly   
 ---------------------------
-// how to build it step by step with pictures 
 
 ### Set Up  
 ---------------
@@ -51,10 +50,10 @@ First we must start up your Raspberry pi so it can boot up. The link below has a
 [SETUP ONE](https://www.raspberrypi.org/help/noobs-setup/2/ "NOOBS SET UP TUTORIAL")  
 Once completed we will then start with breadboard wiring of the circuit for testing.  
 It should look like this:  
-![diagram](https://github.com/RaminKurkeice/Solar-Project/blob/master/images/sensors_raspi_ads1015_i2c_bb.png)
-Now lets boot the pi up and start setting up the converter below is a link with step by step tutorial on how to set up your pi sensor
-[SETUP TWO](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/ads1015-slash-ads1115?gclid=Cj0KCQiAoIPvBRDgARIsAHsCw0_tIp48W2VIJlxb1GdicDLEE7z6YJER2t0mT5Jb6SKeqTfT13KJHiAaAjbbEALw_wcB "I2C SET UP TUTORIAL")  
-Once that is completed we should start testing the wiring with a power supply send power through the wires that are connnected to the front of the ZMPT101B voltage sensor and see if the readings start to change on the screen.  
+![diagram](https://github.com/RaminKurkeice/Solar-Project/blob/master/images/sensors_raspi_ads1015_i2c_bb.png)  
+Now lets boot the pi up and start setting up the converter below is a link with step by step tutorial on how to set up your pi sensor.  
+[SETUP TWO](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/ads1015-slash-ads1115?gclid=Cj0KCQiAoIPvBRDgARIsAHsCw0_tIp48W2VIJlxb1GdicDLEE7z6YJER2t0mT5Jb6SKeqTfT13KJHiAaAjbbEALw_wcB "I2C SET UP TUTORIAL")    
+Once that is completed we should start testing the wiring with a power supply send power through the wires that are connnected to the front of the ZMPT101B voltage sensor and see if the readings start to change on the screen.    
 
 ### wiring diagram   
 -------------------  
