@@ -4,8 +4,8 @@ Welcome to the repository.
 
 ### dec 12, 2019
 --------------------
-will be adding a build instruction soon....
-link:
+added the build instructions to my github.   
+link: [The build instructions](https://github.com/RaminKurkeice/Solar-Project/blob/master/README.md)
 
 ### dec 5, 2019
 --------------
