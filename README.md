@@ -59,8 +59,8 @@ Once that is completed we should start testing the wiring with a power supply se
 -------------------  
 follow the wiring diagram below:  
 ![wiring diagram](https://github.com/RaminKurkeice/Solar-Project/blob/master/images/wiring%20diagarm.PNG "Wiring diagram")   
-It should look something like this:  
-// picture of breadboard 
+It should look something like this:   
+![breadboard](https://github.com/RaminKurkeice/Solar-Project/blob/master/images/totalwiring.png)   
 Once that is completed we should start testing the wiring with a power supply send power through the wires that are connnected to the front of the ZMPT101B voltage sensor and see if the readings start to change on the screen.  
  
 ### Enclosure  
