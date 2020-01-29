@@ -2,10 +2,15 @@ Solar Panel Gazebo
 -------------------
 Welcome to the repository.
 
-### Jan 23, 2019
+### Jan 29, 2020
+----------------------
+added report for week 4.
+link: [the report updated](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Report%20temp%204.docx)
+
+### Jan 23, 2020
 -----------------
 added report for week 3. 
-link: [the report updated](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Report%20temp%203.docx)
+link: [the report backup week 3](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Report%20temp%203.docx)
 
 
 ### dec 12, 2019
