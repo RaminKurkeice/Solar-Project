@@ -4,7 +4,9 @@ Welcome to the repository.
 
 ### feb 5, 2020
 ------------------
-added a 5th version to the report 
+added a 5th version to the report  
+also added the mobile application here  link: [MobileApp](https://github.com/RaminKurkeice/Solar-Project/tree/master/MARSINC2)
+and the image resources: [Resource](https://github.com/RaminKurkeice/Solar-Project/tree/master/softwareimage)
 link: [the report updated week 5](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Report%20temp%205.docx)
 
 ### Jan 29, 2020
