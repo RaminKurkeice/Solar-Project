@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mars Inc</string>
+    <string name="Power_value">100W</string>
+    <string name="time">Temps</string>
+    <string name="date">Rendez-vous amoureux</string>
+    <string name="lux">Lux:</string>
+    <string name="_100_lx">100 lx</string>
+    <string name="power">Puissance:</string>
+    <string name="next_readings">Next Readings:</string>
+    <string name="_30_00">30:00</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+    <string name="DarkMode">Mode sombre</string>
+    <string name="settingsApplied"> paramètres sauvegardés</string>
+    <string name="exitMsg">Êtes-vous sûr de vouloir quitter?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="User">Quitter Mars Inc?</string>
+    <string name="luxTitle">Lux</string>
+    <string name="PowerTitle">Puissance</string>
+    <string name="mars_inc">MARS Inc</string>
+    <string name="marsinc2019_hotmail_com">marsinc2019@hotmail.com</string>
+    <string name="todo5">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="powerReadings">Puissance</string>
+    <string name="_0w">0W</string>
+    <string name="weatherReadings">Conditions météorologiques</string>
+    <string name="currentValue">0C</string>
+    <string name="LuxReadings">Lux</string>
+    <string name="luxValue">0lx</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="portait_mode">Mode portrait</string>
+    <string name="save_settings">Enregistrer les paramètres</string>
+    <string name="todo10">TODO</string>
+    <string name="todo11">TODO</string>
+    <string name="todo12">TODO</string>
+    <string name="powerTitle">Puissance</string>
+    <string name="history">Histoire</string>
+    <string name="SRN">ajouter un numéro de série</string>
+
+    <string name="whatis">Qu\'est-ce que Lux?</string>
+    <string name="more">L éclairement est une mesure de la quantité de flux lumineux qui est répartie sur une zone donnée. (mesurée en lumens) comme mesure de la "quantité" totale de lumière visible présente.
+Un lux équivaut à un lumen par mètre carré: 1 lx = 1 lm / m2 = 1 cd · sr / m2.
+Un flux de 1000 lumens, concentré dans une zone de 1 mètre carré, illumine ce mètre carré avec un éclairement de 1000 lux. Cependant, les mêmes 1000 lumens, répartis sur 10 mètres carrés, produisent un éclairement de gradateur de seulement 100 lux.
+Il peut être possible d atteindre un éclairement de 500 lux dans une cuisine à domicile avec un seul luminaire fluorescent d une puissance de 12 000 lumens. Pour éclairer un étage d usine avec des dizaines de fois, la surface de la cuisine nécessiterait des dizaines de luminaires. Ainsi, l éclairage d une plus grande surface au même niveau de lux nécessite un plus grand nombre de lumens.
+Comme pour les autres unités SI, les préfixes SI peuvent être utilisés, par exemple un kilolux (klx) vaut 1000 lux.
+Voici quelques exemples de l éclairement fourni dans diverses conditions:</string>
+
+    <string-array name="text_size">
+        <item>Petite</item>
+        <item>Ordinaire</item>
+        <item>Grande</item>
+    </string-array>
+
+</resources>

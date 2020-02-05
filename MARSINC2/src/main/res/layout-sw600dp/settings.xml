@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fontSpin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TableLayout
+        android:layout_width="681dp"
+        android:layout_height="554dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center|top">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="669dp"
+            android:layout_margin="10dp">
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="90dp"
+                android:layout_height="61dp"
+                android:contentDescription="@string/todo10"
+                app:srcCompat="@drawable/dark" />
+
+            <Switch
+                android:id="@+id/darkS"
+                android:layout_width="286dp"
+                android:layout_height="match_parent"
+                android:text="@string/DarkMode"
+                android:textSize="18sp" />
+        </TableRow>
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="669dp"
+            android:layout_margin="10dp">
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="78dp"
+                android:contentDescription="@string/todo11"
+                app:srcCompat="@drawable/ic_screen_lock_portrait_black_24dp" />
+
+            <Switch
+                android:id="@+id/portS"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/portait_mode"
+                android:textSize="18sp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="255dp"
+            android:layout_height="95dp"
+            android:layout_margin="10dp">
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="88dp"
+                android:contentDescription="@string/todo12"
+                app:srcCompat="@drawable/ic_format_size_black_24dp" />
+
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="279dp"
+                android:layout_height="match_parent"
+                android:entries="@array/text_size"
+                android:textSize="32sp" />
+
+        </TableRow>
+
+    </TableLayout>
+
+    <Button
+        android:id="@+id/saveSet"
+        android:layout_width="374dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|bottom"
+        android:background="@color/ButtonSet"
+        android:text="@string/save_settings"
+        android:textColor="@color/ButtoText" />
+
+</LinearLayout>
+

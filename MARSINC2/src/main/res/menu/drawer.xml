@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="Navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_serial"
+            android:icon="@drawable/battry"
+            android:title="SerialNumber" />
+        <item
+            android:id="@+id/nav_Weather"
+            android:icon="@drawable/battry"
+            android:title="Weather" />
+        <item
+            android:id="@+id/nav_readings"
+            android:icon="@drawable/battry"
+            android:title="Readings" />
+        <item
+            android:id="@+id/nav_Graph"
+            android:icon="@drawable/battry"
+            android:title="Graph" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/battry"
+            android:title="History" />
+    </group>
+    <item android:title="Options">
+        <menu>
+            <item
+                android:id="@+id/nav_blog"
+                android:icon="@drawable/battry"
+                android:title="Blog" />
+            <item
+                android:id="@+id/nav_code"
+                android:icon="@drawable/battry"
+                android:title="Code Of Conduct" />
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/battry"
+                android:title="Settings" />
+        </menu>
+
+    </item>
+</menu>

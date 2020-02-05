@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Mars Inc</string>
+    <string name="Power_value">100W</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="lux">Lux:</string>
+    <string name="_100_lx">100 lx</string>
+    <string name="power">Power:</string>
+    <string name="next_readings">Next Readings:</string>
+    <string name="_30_00">30:00</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="DarkMode">Dark Mode</string>
+    <string name="settingsApplied"> Setting Saved</string>
+    <string name="exitMsg">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="User">Exit Mars Inc?</string>
+    <string name="luxTitle">Lux</string>
+    <string name="PowerTitle">Power</string>
+    <string name="mars_inc">MARS Inc</string>
+    <string name="marsinc2019_hotmail_com">marsinc2019@hotmail.com</string>
+    <string name="todo5">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="powerReadings">Power</string>
+    <string name="_0w">0W</string>
+    <string name="weatherReadings">Weather</string>
+    <string name="currentValue">0C</string>
+    <string name="LuxReadings">Lux</string>
+    <string name="luxValue">0lx</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="portait_mode">Portait Mode</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="todo10">TODO</string>
+    <string name="todo11">TODO</string>
+    <string name="todo12">TODO</string>
+    <string name="powerTitle">Power</string>
+    <string name="history">History</string>
+    <string name="SRN">add serial number</string>
+
+    <string name="whatis">What is Lux?</string>
+    <string name="more">Illuminance is a measure of how much luminous flux is spread over a given area. (measured in lumens) as a measure of the total "amount" of visible light present.
+One lux is equal to one lumen per square metre: 1 lx = 1 lm/m2 = 1 cd·sr/m2.
+A flux of 1000 lumens, concentrated into an area of 1 square metre, lights up that square metre with an illuminance of 1000 lux. However, the same 1000 lumens, spread out over 10 square metres, produces a dimmer illuminance of only 100 lux.
+Achieving an illuminance of 500 lux might be possible in a home kitchen with a single fluorescent light fixture with an output of 12000 lumens. To light a factory floor with dozens of times the area of the kitchen would require dozens of such fixtures. Thus, lighting a larger area to the same level of lux requires a greater number of lumens.
+As with other SI units, SI prefixes can be used, for example a kilolux (klx) is 1000 lux.
+Here are some examples of the illuminance provided under various conditions:
+</string>
+
+    <string-array name="text_size">
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#101010</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#070707</color>
+    <color name="ButtonSet">#004979</color>
+    <color name="ButtoText">#FFFFFF</color>
+    <color name="Toolbar">#00BCD4</color>
+    <color name="Nav_Head">#014C58</color>
+    <color name="Darkmode">#1B1B1B</color>
+    <color name="white">#FFFF</color>
+</resources>

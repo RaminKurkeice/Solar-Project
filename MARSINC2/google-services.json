@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425995115752",
+    "firebase_url": "https://marsinc-2019.firebaseio.com",
+    "project_id": "marsinc-2019",
+    "storage_bucket": "marsinc-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425995115752:android:b9613e313cfbc608223d5d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425995115752-lmubhka480tuust4bq7puo6qns64ib0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "1e3216d648fb03e833ed552d822acdbf34e7bc29"
+          }
+        },
+        {
+          "client_id": "425995115752-veli1rm3a70p4o8812nm18793nvuelcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYh1sfDdm_cJrUxBo-DMnwTgVs-OQyXak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425995115752-veli1rm3a70p4o8812nm18793nvuelcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

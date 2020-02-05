@@ -1,0 +1,7 @@
+#Tue Dec 03 14:36:11 EST 2019
+base.0=C\:\\Users\\matth\\Downloads\\MARSINC29\\MARSINC29\\My Application\\MyApplication4\\MARSINC\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\matth\\Downloads\\MARSINC29\\MARSINC29\\My Application\\MyApplication4\\MARSINC\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
