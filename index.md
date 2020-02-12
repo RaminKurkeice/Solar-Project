@@ -11,6 +11,8 @@ link:[hardware code](https://github.com/RaminKurkeice/Solar-Project/tree/master/
 to see copyrighted code see links below:
 link:[temp code](http://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/)  
 link:[firmware](https://www.raspberrypi.org/downloads/)  
+tutorial:  
+link:[learn.adafruit](https://github.com/adafruit/Adafruit_Python_ADS1x15/blob/master/LICENSEhttps://github.com/adafruit/Adafruit_Python_ADS1x15/blob/master/LICENSE)
 
 ### feb 5, 2020
 ------------------
