@@ -2,6 +2,16 @@ Solar Panel Gazebo
 -------------------
 Welcome to the repository.
 
+### feb 12,2020
+----------------------
+added new report can be seen below:  
+link:[Report updated week 6](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Report%20temp%206.docx)  
+added code directory can be found here:
+link:[hardware code](https://github.com/RaminKurkeice/Solar-Project/tree/master/hardware%20code)  
+to see copyrighted code see links below:
+link:[temp code](http://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/)  
+link:[firmware](https://www.raspberrypi.org/downloads/)  
+
 ### feb 5, 2020
 ------------------
 added a 5th version to the report  
