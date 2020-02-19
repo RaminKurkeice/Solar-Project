@@ -2,6 +2,13 @@ Solar Panel Gazebo
 -------------------
 Welcome to the repository.
 
+### feb 19, 2020
+-------------------
+added report 7 can be seen below:   
+link:[Report updated week 7](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Report%20temp%207.docx)    
+added the fritzing file v1: (working on the schemeatic and pcb on v2)  
+link:[v1 breadboard](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/solarProjectwithParts.fzz)  
+
 ### feb 12,2020
 ----------------------
 added new report can be seen below:  
