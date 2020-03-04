@@ -2,6 +2,13 @@ Solar Panel Gazebo
 -------------------
 Welcome to the repository.
 
+### March 4, 2020
+--------------------
+added the Breadboard, Schematic, and PCB diagrams to be view for the status update.  
+link:[Breadboard](https://github.com/RaminKurkeice/Solar-Project/blob/master/images/Mars%20v1/MARS%20v1_Breadboard.png)  
+link:[Schematic](https://github.com/RaminKurkeice/Solar-Project/blob/master/images/Mars%20v1/MARS%20v1_schem.png)  
+link:[PCB](https://github.com/RaminKurkeice/Solar-Project/blob/master/images/Mars%20v1/MARS%20v1_pcb.png)  
+
 ### feb 19, 2020
 -------------------
 added report 7 can be seen below:   
