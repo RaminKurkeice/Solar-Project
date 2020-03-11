@@ -8,6 +8,11 @@ added the Breadboard, Schematic, and PCB diagrams to be view for the status upda
 link:[Breadboard](https://github.com/RaminKurkeice/Solar-Project/blob/master/images/Mars%20v1/MARS%20v1_Breadboard.png)  
 link:[Schematic](https://github.com/RaminKurkeice/Solar-Project/blob/master/images/Mars%20v1/MARS%20v1_schem.png)  
 link:[PCB](https://github.com/RaminKurkeice/Solar-Project/blob/master/images/Mars%20v1/MARS%20v1_pcb.png)  
+added the code "run.py" below:  
+link:[completed code](https://github.com/RaminKurkeice/Solar-Project/tree/master/hardware%20code/Mars%20compiled%20code) 
+added report week 8 below:  
+link[report week 8](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Report%20temp%208.docx)  
+
 
 ### feb 19, 2020
 -------------------
