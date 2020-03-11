@@ -2,6 +2,11 @@ Solar Panel Gazebo
 -------------------
 Welcome to the repository.
 
+### March 11, 2020
+-------------------
+PCB soldered and tests made.  
+the tests results on the multimeter link:[here](https://github.com/RaminKurkeice/Solar-Project/tree/master/images/measurement)  
+
 ### March 4, 2020
 --------------------
 added the Breadboard, Schematic, and PCB diagrams to be view for the status update.  
