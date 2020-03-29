@@ -2,6 +2,12 @@ Solar Panel Gazebo
 -------------------
 Welcome to the repository.
 
+### March 29, 2020
+--------------------
+added the case for the device.
+uses a SVG for lazer cutting link is below
+link:[Case](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/MarsCase.svg)
+
 ### March 11, 2020
 -------------------
 PCB soldered and tests made.  
