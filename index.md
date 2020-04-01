@@ -2,6 +2,11 @@ Solar Panel Gazebo
 -------------------
 Welcome to the repository.
 
+### April 1, 2020
+------------------
+added report for database.
+link:[Report](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Report%20temp%2011.docx)
+
 ### March 29, 2020
 --------------------
 added the case for the device.
