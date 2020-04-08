@@ -5,7 +5,7 @@ Welcome to the repository.
 ### April 8, 2020
 -----------------------
 added poster presentation designed and completed link below:   
-link:[poster presentaion](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Poster%20Presensation.pptx)   
+link:[poster presentaion](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Poster%20Presensation.pdf)   
 
 ### April 1, 2020
 ------------------
