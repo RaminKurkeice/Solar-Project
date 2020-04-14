@@ -2,6 +2,12 @@ Solar Panel Gazebo
 -------------------
 Welcome to the repository.
 
+### April 14, 2020
+-----------------------
+Completed finla report and the checklists both links are found below:   
+link:[Checklist](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/MARS_Checklists.pdf)   
+link:[Final Report](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Final%20Report.docx)    
+
 ### April 8, 2020
 -----------------------
 added poster presentation designed and completed link below:   
