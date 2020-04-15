@@ -6,7 +6,7 @@ Welcome to the repository.
 -----------------------
 Completed finla report and the checklists both links are found below:   
 link:[Checklist](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/MARS_Checklists.pdf)   
-link:[Final Report](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Final%20Report.docx)    
+link:[Final Report](https://github.com/RaminKurkeice/Solar-Project/blob/master/documentation/Mars_Final%20Report.pdf)    
 
 ### April 8, 2020
 -----------------------
